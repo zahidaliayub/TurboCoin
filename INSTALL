@@ -1,0 +1,4 @@
+Building TurboCoin
+See doc/readme-qt.rst for instructions on building TurboCoin QT.
+
+See doc/build-*.txt for instructions on building turbocoind.
